@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Xx-Ashutosh-xX/SongBird.git
+git clone https://github.com/rajat1299/Selected-plays.git
 Set Up Discord Bot
 
 Go to Discord's Developer Portal.
